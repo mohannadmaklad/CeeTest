@@ -2,7 +2,7 @@
 CeeTest is a small eclipse plugin based on unity and CMock. The tool's main purpose is to rapidly generate testing environments for your application.
 
 # Disclaimer
-Please note that the tool is not mature yet, So please use it in a separate workspace. It's well tested for main scenarios and shouldn't do any harm to your projects but better be careful :).
+Please note that the tool is not mature yet, So please use it in a separate workspace. It's well tested against main scenarios and shouldn't do any harm to your projects but better be careful :).
 ## Main Features
 - Automatic dependency detetction and cloning to the generated environment
 - Easy dependecies mocking using CMock
