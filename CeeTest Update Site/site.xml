@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/CeeTest_Feature_2.0.0.202205132346.jar" id="CeeTest_Feature" version="2.0.0.202205132346">
+      <category name="CeeTest"/>
+   </feature>
+   <category-def name="CeeTest" label="CeeTest"/>
+</site>
