@@ -74,7 +74,7 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/9629681/168421998-b080f6de-6adb-4b79-a3f6-a99a6097fd79.png)
 
-Please make sure to untick the module under test header file as it doesn't make sense to mock it.
+Please make sure to untick the module under test's header file as it doesn't make sense to mock it.
 
 The generated Project:
 
@@ -93,9 +93,9 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/9629681/168422330-79eef689-96dd-495f-94f5-d9db3b54f893.png)
 
-5- You can now click on "Configure Coverage" and select your source files to let the tool add the necessary coverage flag.
-6- Build and run your project again to get the coverage data
-7- Click on "Coverage Report" and the report html page should show up
+5- You can now click on "Configure Coverage" and select your source files to let the tool add the necessary coverage flags.
+6- Build and run your project again to get the coverage data.
+7- Click on "Coverage Report" and the report html page should show up.
 
 Example: 
 
